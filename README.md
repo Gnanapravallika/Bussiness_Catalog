@@ -23,10 +23,6 @@ It is designed to demonstrate full-stack web development skills and deploy-ready
 | Auth & Security| JWT, bcrypt (or your auth mechanism)             |
 | Tools / CI   | GitHub Actions, Docker, etc (if used)             |
 
-## 🎬 Demo / Screenshots  
-_(Insert screenshots or a link to a live demo here)_  
-![Screenshot example](link-to-screenshot.png)  
-Live demo: [https://your-demo-url.com](https://your-demo-url.com)
 
 ## 📦 Getting Started  
 ### Prerequisites  
